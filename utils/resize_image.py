@@ -24,7 +24,6 @@ def resize_image(pathForImageWantToResize: str, width: int, height: int, i: int 
         return
     else:
         print("folder " + newpath + "is exist")
-    print("meong")
     # print(os.path.splitext(str(pathForImageWantToResize)+image_file_name)[1])
 
 
